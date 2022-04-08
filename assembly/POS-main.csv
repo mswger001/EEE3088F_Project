@@ -1,0 +1,45 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+BT1,Battery_Cell,18650_HOLDER_TH,138.07,-96.83,0.0,bottom
+C1,0.1uF,C_0805_2012Metric,175.92,-113.27,0.0,top
+C2,10uF,C_0805_2012Metric,151.74,-91.42,90.0,top
+C3,0.47u,C_0805_2012Metric,148.15,-91.61,90.0,top
+C4,1u,C_0805_2012Metric,155.17,-87.62,90.0,top
+C5,10u,C_0805_2012Metric,151.74,-87.65,90.0,top
+C6,0.1uF,C_0805_2012Metric,123.05,-98.9,90.0,top
+C7,22u,C_0805_2012Metric,148.2,-87.83,90.0,top
+C8,100nF,C_0805_2012Metric,164.43,-87.66,-90.0,top
+C9,100nF,C_0805_2012Metric,161.2,-87.68,-90.0,top
+C10,100nF,C_0805_2012Metric,157.65,-87.57,-90.0,top
+D1,LED,LED_0603_1608Metric,186.7025,-107.41,0.0,top
+D2,LED,LED_0603_1608Metric,186.72,-109.07,0.0,top
+D3,LED,LED_0603_1608Metric,185.25,-68.78,90.0,top
+D4,~,LED_0603_1608Metric,187.91,-72.93,90.0,top
+J1,USB_B_Mini,USB_Micro-B_Amphenol_10118194_Horizontal,186.2,-97.14,90.0,top
+J2,Conn_01x33_Female,PinHeader_1x33_P2.54mm_Vertical,180.34,-66.04,-90.0,top
+J3,Conn_01x33_Female,PinSocket_1x33_P2.54mm_Vertical,180.34,-76.2,-90.0,top
+J4,Conn_01x10_Male,PinHeader_1x10_P2.54mm_Vertical,88.03,-84.995,180.0,bottom
+J5,Conn_01x33_Female,PinSocket_1x33_P2.54mm_Vertical,180.34,-116.84,-90.0,top
+J6,Conn_01x33_Female,PinHeader_1x33_P2.54mm_Vertical,180.34,-127.0,-90.0,top
+JP1,Jumper_3_Bridged12,PinHeader_1x03_P2.54mm_Vertical,121.385,-81.28,-90.0,bottom
+JP2,Jumper_3_Bridged12,PinHeader_1x03_P2.54mm_Vertical,116.02,-112.64,-90.0,bottom
+JP3,Jumper_3_Bridged12,PinHeader_1x03_P2.54mm_Vertical,138.625,-81.36,90.0,bottom
+JP4,Jumper_3_Bridged12,PinHeader_1x03_P2.54mm_Vertical,151.74,-81.66,90.0,bottom
+R1,1k,R_0603_1608Metric,183.1725,-108.91,0.0,top
+R2,1k,R_0603_1608Metric,183.0825,-107.44,0.0,top
+R3,10k,R_0603_1608Metric,171.6625,-107.48,0.0,top
+R4,1k,R_0603_1608Metric,113.93,-99.81,0.0,top
+R5,100,R_0603_1608Metric,135.29,-99.72,180.0,top
+R6,6.8 k,R_0603_1608Metric,108.52,-112.64,90.0,top
+R7,4k7,R_0603_1608Metric,135.17,-105.48,180.0,top
+R8,4k7,R_0603_1608Metric,135.245,-102.78,180.0,top
+R9,1K,R_0603_1608Metric,184.74,-71.09,180.0,top
+R10,1k,R_0603_1608Metric,184.35,-73.81,180.0,top
+U1,TP4056,TP4056_SOP-8-PP,177.2225,-108.1,0.0,top
+U2,DW01,SOT-23-6,118.1,-99.8,0.0,top
+U3,FS8205A,TSSOP-8_4.4x3mm_P0.65mm,118.65,-94.42,0.0,top
+U4,MCP9700AT-ETT,SOT-23,95.16,-112.37,0.0,top
+U5,AT24C256C-SSHL-B,SOIC-8_3.9x4.9mm_P1.27mm,135.79,-111.09,90.0,top
+U6,DHT11,Aosong_DHT11_5.5x12.0_P2.54mm,89.6575,-67.5275,180.0,bottom
+U7,DS18B20,TO-92_Inline,94.14,-96.33,90.0,bottom
+U8,FT232RL,SSOP-28_5.3x10.2mm_P0.65mm,180.82,-84.71,0.0,top
+VR1,Voltage Regulator,VREG_LM3940IMP-3.3_NOPB,141.52,-92.43,180.0,top
